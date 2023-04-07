@@ -2656,6 +2656,16 @@ input, select, textarea {
 			width: 6.25em;
 		}
 
+		.header-links {
+			list-style: none;
+		}
+
+		.header-link {
+			color: white;
+			text-decoration: none;
+			border: none;
+		}
+
 /* Footer */
 
 	#footer .icons {
