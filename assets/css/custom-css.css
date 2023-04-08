@@ -2,6 +2,11 @@
     list-style: none;
 }
 
+.header-titles * {
+    margin: 0;
+    padding: 0;
+}
+
 .resume-button {
     margin-bottom: 1rem;
 }
